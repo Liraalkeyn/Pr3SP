@@ -1,0 +1,6 @@
+@Pr3SP_HostAddress = http://localhost:5068
+
+GET {{Pr3SP_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
